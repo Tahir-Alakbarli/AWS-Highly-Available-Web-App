@@ -313,6 +313,9 @@ After I tested and collected the evidence, I removed the resources as they would
 
 I retained a small S3 bucket because it is shared with my earlier AWS web projects.
 
+## AI Usage
+AI was used only for HTML and CSS code for the project's website. Everything else was done by myself.
+
 ## Skills Demonstrated
 
 - Amazon EC2
